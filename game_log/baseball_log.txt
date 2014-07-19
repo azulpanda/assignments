@@ -1,0 +1,40 @@
+Game Start!
+
+
+Game 1
+
+Answer: 8235
+
+Guess #1: 1234
+Result: 2S 0B
+
+Guess #2: 1234
+Result: 2S 0B
+
+Guess #3: 1468
+Result: 0S 1B
+
+Guess #4: 5432
+Result: 1S 2B
+
+Guess #5: 8235
+
+You hit the number!
+You guessed 5 times!
+
+
+Game 2
+
+Answer: 9074
+
+Guess #1: 1234
+Result: 1S 0B
+
+Guess #2: 9074
+
+You hit the number!
+You guessed 2 times!
+
+
+
+Game Over!
